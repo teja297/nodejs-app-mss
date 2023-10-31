@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://43.204.142.7:8081/repository/icicibank-noderepo/"
+    "registry": "http://3.111.170.128:8081/repository/icicbank-noderepo/"
   },
   
   "scripts": {
